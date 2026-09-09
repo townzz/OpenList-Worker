@@ -269,8 +269,7 @@ ${((await er("/",n0(r))).content||[]).filter(s=>s.is_dir).map(s=>`  <Bucket><Nam
     <meta name="apple-mobile-web-app-capable" content="yes" >
     <meta name="apple-mobile-web-app-title" content="OpenList" >
     <link rel="apple-touch-icon" href="https://res.oplist.org/logo/logo.png" >
-    <link 
-      rel="shortcut icon"
+    <link       rel="shortcut icon"
       type="image/ico"
       href="https://res.oplist.org/logo/logo.svg"
     >
@@ -300,14 +299,13 @@ ${((await er("/",n0(r))).content||[]).filter(s=>s.is_dir).map(s=>`  <Bucket><Nam
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
 
-
     <!-- customize body -->
     <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
     
-    <script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/index-legacy--JReVJQ7.js"></script>
+    <script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/index-legacy-BiS1Bx0z.js"></script>
     <script>
 (function(){
-var preloads = [{"parentTagName":"head","tagName":"script","attrs":{"type":"module","crossorigin":"","src":"/assets/index-C0UN_cDm.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/rolldown-runtime-Dd_uD5pT.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/en-Cb1udzIe.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/zh-CN-D7L2on4W.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/zh-TW-BKjAsqlH.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/preload-helper-BlqD8ULz.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/store-DpRH_qwk.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/lib-D4GCLQGP.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"stylesheet","crossorigin":"","href":"/assets/index-MlAvXon-.css"}},{"parentTagName":"body","tagName":"script","attrs":{"nomodule":"","crossorigin":"","id":"vite-legacy-polyfill","data-src":"/assets/polyfills-legacy-0sNFWZin.js"}}];
+var preloads = [{"parentTagName":"head","tagName":"script","attrs":{"type":"module","crossorigin":"","src":"/assets/index-YtyEitu9.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/rolldown-runtime-Dd_uD5pT.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/en-Cb1udzIe.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/zh-CN-D7L2on4W.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/zh-TW-BKjAsqlH.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/preload-helper-BlqD8ULz.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/store-CXuu8YuN.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/lib-Ci_6J-8y.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"stylesheet","crossorigin":"","href":"/assets/index-MlAvXon-.css"}},{"parentTagName":"body","tagName":"script","attrs":{"nomodule":"","crossorigin":"","id":"vite-legacy-polyfill","data-src":"/assets/polyfills-legacy-0sNFWZin.js"}}];
 function setAttribute(target, attrs) {
 for (var key in attrs) {
   target.setAttribute(key, attrs[key]);
